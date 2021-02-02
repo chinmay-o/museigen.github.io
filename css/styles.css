@@ -4196,6 +4196,14 @@ html.no-csstransitions .s-hero__content {
     background-image: url(../images/icons/services/wifi.png);
 }
 
+.service-icon--product-design-testOne {
+    background-image: url(../images/icons/services/graduated.png);
+}
+
+.service-icon--product-design-testTwo {
+    background-image: url(../images/icons/services/employee.png);
+}
+
 .service-icon--branding {
     background-image: url(../images/icons/services/click.png);
 }
